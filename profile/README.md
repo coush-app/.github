@@ -1,0 +1,3 @@
+## About
+
+### Coush is a future project of <a href="https://github.com/nikoidot">@nikoidot</a>, we are not working on it now. But we gonna get back soon...
